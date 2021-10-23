@@ -24,12 +24,13 @@ thead tr
   vertical-align: middle;
 }
 
-thead tr:hover
+thead tr:hov
 {
   color: Black;
   background-color: Gray;
   padding: 2px 4px 2px 4px;
   border: 2px double Maroon;
+  font-size: 150%;
 }
 
 tfoot tr
@@ -54,7 +55,7 @@ table tbody tr td:hover
 {
   background-color: #F6CECE;
   color: #8A0808;
-  font-size: 100%;
+  font-size: 150%;
   font-weight: 400;
   padding: 2px 4px 2px 4px;
   border: 2px double Red;
